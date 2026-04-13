@@ -8,27 +8,6 @@
 
 </div>
 
-<br/>
-
----
-
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   guest@dharani:~$ cat about.txt                     │
-│                                                      │
-│   I design systems where hardware is the foundation  │
-│   and intelligence is the goal. Whether it's a PCB   │
-│   or a local LLM pipeline — I build it intentional,  │
-│   secure, and from first principles.                 │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
 ## `⚡ Current Build Stack`
 
 <div align="center">
