@@ -1,6 +1,8 @@
 name: Generate Snake Animation
 
 on:
+permissions:
+  contents: write  # This gives the bot permission to push to your repo
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
